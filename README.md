@@ -11,6 +11,9 @@ Clean and prepare the data for analysis.
 Answer key questions about the electric vehicle market, such as performance metrics, pricing trends, and popular brands.
 This repository serves as a portfolio piece demonstrating SQL data analysis skills, data cleaning, and querying techniques.
 
+![Pie chart](https://github.com/user-attachments/assets/5e6fd346-28de-4b9a-a3ec-d641b5292a0f)
+
+
 ### Dataset
 
 Source: The dataset contains information about various electric vehicle models, including specifications such as range, price, brand, battery capacity, charging speed, and release year.
